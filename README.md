@@ -17,10 +17,13 @@ Bootstrap resampling is random sampling with replacement from a sample to approx
 
 **Sample Size**: 5% of the population
 ![alt text](https://raw.githubusercontent.com/michotross257/bootstrap-resampling/master/images/eval_plot_05.jpg)
+
 **Sample Size**: 10% of the population
 ![alt text](https://raw.githubusercontent.com/michotross257/bootstrap-resampling/master/images/eval_plot_10.jpg)
+
 **Sample Size**: 20% of the population
 ![alt text](https://raw.githubusercontent.com/michotross257/bootstrap-resampling/master/images/eval_plot_20.jpg)
+
 **Sample Size**: 40% of the population
 ![alt text](https://raw.githubusercontent.com/michotross257/bootstrap-resampling/master/images/eval_plot_40.jpg)
 
